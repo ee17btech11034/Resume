@@ -1,1 +1,1 @@
-# Here are my details like resume, cv. 
+# Here are my details like Resume, CV. 
